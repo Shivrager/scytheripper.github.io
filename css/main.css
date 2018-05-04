@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+}
+
+.center-container{
+    text-align: center
+}
+
+.container{
+    padding: 5%;
+}
+
+.project-container{
+    color: lightslategray;
+}
